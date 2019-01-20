@@ -14,7 +14,6 @@ public class GameAssets {
             add(R.drawable.scissors);
             add(R.drawable.lizard);
             add(R.drawable.spock);
-            add(R.drawable.rules);
 
         }
     };
